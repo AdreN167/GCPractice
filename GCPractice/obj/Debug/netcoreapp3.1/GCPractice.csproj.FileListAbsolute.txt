@@ -1,0 +1,13 @@
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\bin\Debug\netcoreapp3.1\GCPractice.exe
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\bin\Debug\netcoreapp3.1\GCPractice.deps.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\bin\Debug\netcoreapp3.1\GCPractice.runtimeconfig.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\bin\Debug\netcoreapp3.1\GCPractice.runtimeconfig.dev.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\bin\Debug\netcoreapp3.1\GCPractice.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\bin\Debug\netcoreapp3.1\GCPractice.pdb
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\obj\Debug\netcoreapp3.1\GCPractice.csprojAssemblyReference.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\obj\Debug\netcoreapp3.1\GCPractice.csproj.CoreCompileInputs.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\obj\Debug\netcoreapp3.1\GCPractice.AssemblyInfoInputs.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\obj\Debug\netcoreapp3.1\GCPractice.AssemblyInfo.cs
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\obj\Debug\netcoreapp3.1\GCPractice.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\obj\Debug\netcoreapp3.1\GCPractice.pdb
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 16 Сборка мусора\GCPractice\GCPractice\obj\Debug\netcoreapp3.1\GCPractice.genruntimeconfig.cache
